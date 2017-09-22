@@ -1,0 +1,7 @@
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\bin\Debug\XML_Reader.exe.config
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\bin\Debug\XML_Reader.exe
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\bin\Debug\XML_Reader.pdb
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\obj\Debug\XML_Reader.csprojResolveAssemblyReference.cache
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\obj\Debug\XML_Reader.exe
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\obj\Debug\XML_Reader.pdb
+C:\Users\niraj\Documents\Civictrack\XML_Reader\XML_Reader\obj\Debug\XML_Reader.csproj.ResolveComReference.cache
